@@ -62,7 +62,7 @@ This repository reflects the work and learning from my internship journey at COD
 ## 📫 Contact
 
 - GitHub: [Asthadixit1716](https://github.com/Asthadixit1716)
-- LinkedIn: [ASTHA dIXIT](www.linkedin.com/in/astha-dixit-38500727b)
+- LinkedIn: (www.linkedin.com/in/astha-dixit-38500727b)
 - Email: (asthadixitrkm@gmail.com)
 
 ---
